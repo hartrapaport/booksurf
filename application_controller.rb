@@ -11,6 +11,8 @@ class MyApp < Sinatra::Base
   end
   
     post'/results' do
+    @book=params[:book]
+    books(@book)
     erb :results
   end
 end
