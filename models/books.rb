@@ -8,6 +8,8 @@ amazon_books={"Great Gatsby" => 7.70, "Pride and Prejudice" => 9.99, "Macbeth" =
     b_n_price= b_n_books[book_title].to_f
   if amazon_books.include?(book_title) && b_n_books.include?(book_title)
     get_price(amazon_price,b_n_price)
+    @ap = amazon_price
+    @bp = b_n_price
     end
 end
   
