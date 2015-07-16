@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+  color: black; 
+  font-size: 80px;
+  font-family: times_new_roman,cursive;
+}
+body{
+  background-image: url(http://nhtheatreawards.org/Data/Sites/1/aaImages/graphics/Sky%20and%20Clouds/beautiful_sky-dsc01468-dws.jpg)
+}
+p{
+  font-size: 25px;
+  width: 160px;
+  padding: 10px;
+  border: 5px black;
+  margin: 0;
+  background-color: white;
+  text-align: center;
+  
+}

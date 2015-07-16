@@ -1,0 +1,21 @@
+h1 {
+  color: black;
+  text-align: center;
+}
+h2 {
+  width: 200px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0; 
+  background-color: white;
+}
+h3 {
+  width: 200px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0; 
+  background-color: white;
+}
+body{
+  background-image: url(http://nhtheatreawards.org/Data/Sites/1/aaImages/graphics/Sky%20and%20Clouds/beautiful_sky-dsc01468-dws.jpg)
+}
