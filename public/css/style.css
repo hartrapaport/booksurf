@@ -1,8 +1,8 @@
 h1 {
-    text-align: center;
-  color: black; 
+  text-align: center;
+  color: saddlebrown; 
   font-size: 80px;
-  font-family: times_new_roman,cursive;
+  font-family:'Lobster Two', cursive;
 }
 body{
   background-image: url(http://p1.pichost.me/i/56/1795887.jpg)
@@ -12,8 +12,8 @@ p{
   width: 160px;
   padding: 10px;
   border: 5px black;
-  margin: 0;
-  background-color: white;
+  margin: auto;
   text-align: center;
+  color: saddlebrown;
   
 }
